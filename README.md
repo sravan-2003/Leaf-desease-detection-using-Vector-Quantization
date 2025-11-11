@@ -35,3 +35,30 @@ Once a **plant leaf image** is uploaded:
 💡 Displays Disease, Causes, and Cure Suggestions
         ↓
 ⬇️ Compressed Image Download Option
+
+
+Follow the steps below to set up and run this project on your local system.
+
+---
+
+### 🧩 1️⃣ Prerequisites
+
+Make sure you have the following installed:
+- 🟢 **Node.js** (v18 or later)  
+- 🧰 **npm** (Node Package Manager)  
+- 💻 **Git** (optional, for cloning repositories)
+
+If not installed, download Node.js from: [https://nodejs.org](https://nodejs.org)
+
+---
+
+### 📦 2️⃣ Clone the Repository
+
+Clone this project to your local machine using Git:
+
+```bash
+git clone https://github.com/<your-username>/<your-repo-name>.git
+
+npm install
+
+npm run dev
