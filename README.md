@@ -21,22 +21,6 @@ Once a **plant leaf image** is uploaded:
 
 ---
 
-## ⚙️ Workflow
-
-```text
-🌿 Leaf Image Upload
-        ↓
-🎨 VQ–KMeans Compression (Main Module)
-        ↓
-📉 Output: Compressed Image (PSNR = 31, SSIM = 0.6)
-        ↓
-🧠 CNN Model for Disease Classification
-        ↓
-💡 Displays Disease, Causes, and Cure Suggestions
-        ↓
-⬇️ Compressed Image Download Option
-
-
 Follow the steps below to set up and run this project on your local system.
 
 ---
@@ -62,3 +46,21 @@ git clone https://github.com/<your-username>/<your-repo-name>.git
 npm install
 
 npm run dev
+
+
+## ⚙️ Workflow
+
+```text
+🌿 Leaf Image Upload
+        ↓
+🎨 VQ–KMeans Compression (Main Module)
+        ↓
+📉 Output: Compressed Image (PSNR = 31, SSIM = 0.6)
+        ↓
+🧠 CNN Model for Disease Classification
+        ↓
+💡 Displays Disease, Causes, and Cure Suggestions
+        ↓
+⬇️ Compressed Image Download Option
+
+
