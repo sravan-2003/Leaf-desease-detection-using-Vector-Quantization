@@ -1,0 +1,5 @@
+{
+  "name": "AI Leaf Disease Detector",
+  "description": "An advanced web application to detect plant diseases from leaf images. It simulates a high-efficiency workflow including client-side image compression and a mock AI classification, providing users with instant diagnostics and treatment recommendations.",
+  "requestFramePermissions": []
+}
